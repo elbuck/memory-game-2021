@@ -1,0 +1,15 @@
+body {
+	background-color: lightgrey;
+	display: flex;
+	flex-direction: column;
+}
+
+h3 {
+	text-align: center;
+}
+
+.grid {
+	width: 400px;
+	height: 300px;
+	margin-left: 25%;
+}
